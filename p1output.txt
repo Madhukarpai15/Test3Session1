@@ -1,1 +1,5 @@
-
+Enter the numerator of the 1st number: 2
+Enter the denominator of the 1st number: 3
+Enter the numerator of the 2nd number: 3
+Enter the denominator of the 2nd number: 2
+2/3 + 3/2 = 13/6
